@@ -1,0 +1,33 @@
+Script started on Sun Aug  2 05:04:15 2020
+# cd scritpe
+sh: 1: cd: can't cd to scritpe
+# cd
+# ^C
+# 
+# q
+sh: 4: q: not found
+# :q
+sh: 5: :q: not found
+# :qw
+sh: 6: :qw: not found
+# :wq
+sh: 7: :wq: not found
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^C
+# ^[
+sh: 8: : not found
+# ^[^[^[
+sh: 9: : not found
+# exit
+
+Script done on Sun Aug  2 05:04:53 2020
