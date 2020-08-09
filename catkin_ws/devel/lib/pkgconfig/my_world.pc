@@ -1,0 +1,8 @@
+prefix=/home/workspace/home_service_robot/catkin_ws/devel
+
+Name: my_world
+Description: Description of my_world
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
