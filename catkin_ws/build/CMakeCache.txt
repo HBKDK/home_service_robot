@@ -321,6 +321,12 @@ add_markers_BINARY_DIR:STATIC=/home/workspace/home_service_robot/catkin_ws/build
 //Value Computed by CMake
 add_markers_SOURCE_DIR:STATIC=/home/workspace/home_service_robot/catkin_ws/src/add_markers
 
+//Value Computed by CMake
+add_markers_home_service_BINARY_DIR:STATIC=/home/workspace/home_service_robot/catkin_ws/build/add_markers_home_service
+
+//Value Computed by CMake
+add_markers_home_service_SOURCE_DIR:STATIC=/home/workspace/home_service_robot/catkin_ws/src/add_markers_home_service
+
 //The directory containing a CMake configuration file for bond.
 bond_DIR:PATH=/opt/ros/kinetic/share/bond/cmake
 
@@ -741,7 +747,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=21
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=22
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
