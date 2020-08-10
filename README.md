@@ -1,9 +1,9 @@
 # home_service_robot
 Udacity Robotics Software Engineer Course final Project
-![screen shot](https://github.com/HBKDK/home_service_robot/blob/master/home_service.jpg)
+
 ## Program Overview
 In this program, a mobile robot goes to an area in which an object is. Then, the mobile robot picks up the object and brings it to drop-off area.
-
+![screen shot](https://github.com/HBKDK/home_service_robot/blob/master/home_service.jpg)
 ## Requirements
 * Gazebo any version later than v7.0.0
 * ROS Kinetic : Link <http://wiki.ros.org/ROS/Installation>
